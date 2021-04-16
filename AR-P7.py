@@ -22,7 +22,7 @@ for i in range(1, n + 1):
         sq.add(c)
     print('sq:',sq)
 print('sq:',sq)
-print('max gcd:',max(sq))
+#print('max gcd:',max(sq))
 
 
 
