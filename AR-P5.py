@@ -13,9 +13,9 @@ for i in range(1,n+1):
 res1 = res1[::-1]
 answer=res2+res1
 
-print(answer , answer[k])
+print(answer , answer[k-1])
 
 '''
 1 3 5 7 9 10 8 6 4 2
-0 1 2 3 4  5  6 7 8 9
+0 1 2 3 4 5  6 7 8 9
 '''
